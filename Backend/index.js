@@ -16,6 +16,7 @@ app.use('/auth', authRoutes);
 app.use('/', sectionRoute);
 app.use('/', authRoutes);
 app.use('/:userId', authRoutes);
+// Use Your MongoDB Atlas OR Compass URL
 mongoose.connect('MongoDB URL', { useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => console.log('MongoDB connected'))
     .catch(err => console.log(err));
