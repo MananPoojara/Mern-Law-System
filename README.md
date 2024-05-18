@@ -8,9 +8,24 @@ Mern-Law-System is a sophisticated law system that enables users to access and l
 - **Search IPC Section**: Users can easily search for specific IPC sections and obtain detailed information about each section, including the offenses and associated punishments.
 - **Learning Platform**: Provides a platform for users to learn about the Indian Penal Code and gain a comprehensive understanding of the legal framework.
 
+![image](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/4163c8cb-ed75-41e1-90a9-d0fb7a3a90de)
+
+![Home_pages-to-jpg-0001](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/19b2cd42-b104-49af-bc32-3301750ff9ff)
+
+![About_page-0001](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/3a883a5a-de09-459f-b515-4461dea751af)
+
+![image](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/846d6e02-4101-45c3-b0cd-2811c5506068)
+
+
 ### Admin Dashboard
 - **User Management**: The admin side allows for efficient management of user accounts, ensuring secure access and user administration.
+
+![image](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/d39d8add-d3a9-47ef-abf0-1f21804d26d4)
+
 - **Add IPC Section**: Enables the addition of new IPC sections to the system, ensuring that the information is always up-to-date and comprehensive.
+
+![image](https://github.com/MananPoojara/Mern-Law-System/assets/104253184/a3adbda6-cef8-4c65-b378-44c3aecc1a91)
+
 
 ## Technologies Used
 Mern-Law-System utilizes modern technologies to deliver a seamless and efficient user experience.
@@ -36,6 +51,6 @@ Contributions to Mern-Law-System are welcome. If you would like to contribute to
 Mern-Law-System is licensed under the MIT License. See the [LICENSE](https://github.com/MananPoojara/Mern-Law-System/LICENSE) file for more details.
 
 ## Support
-For any questions or assistance regarding Mern-Law-System, please contact the development team at support@mernlawsystem.com.
+For any questions or assistance regarding Mern-Law-System, please contact the development team at mananpujara666@gmail.com.
 
 Mern-Law-System is committed to providing a comprehensive platform for learning about the Indian Penal Code and managing legal information effectively.  
